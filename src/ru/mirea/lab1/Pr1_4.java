@@ -56,7 +56,7 @@ public class Pr1_4 {
         } while (i<n);
 
         System.out.println("Сумма чисел массива: " + s);
-        System.out.println("Среднее " + s/n);
+        System.out.println("Среднее: " + s/n);
         System.out.println("Минимальное: " + min + " Максимальное: " + max);
     }
 }

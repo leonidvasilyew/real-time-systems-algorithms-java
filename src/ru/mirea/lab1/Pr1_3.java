@@ -9,7 +9,7 @@ public class Pr1_3 {
             s += b[i];
         }
 
-        System.out.println(s);
-        System.out.println(s/b.length);
+        System.out.println("Сумма чисел массива: " + s);
+        System.out.println("Среднее: " + s/b.length);
     }
 }

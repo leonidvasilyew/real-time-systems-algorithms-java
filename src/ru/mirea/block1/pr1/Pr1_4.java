@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package ru.mirea.block1.pr1;
 import java.util.Scanner;
 
 public class Pr1_4 {

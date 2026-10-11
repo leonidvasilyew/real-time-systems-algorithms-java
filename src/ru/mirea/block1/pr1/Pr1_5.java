@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package ru.mirea.block1.pr1;
 
 public class Pr1_5 {
     public static void main(String[] args) {
